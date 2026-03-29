@@ -36,21 +36,30 @@ With built-in validation mechanisms, the system ensures data integrity and relia
 <h2 id="dataset-inputs">📊 Dataset & Inputs</h2>
 
 <p>The application does not use a predefined dataset. Instead, it works with dynamic data provided by users and stored in the database.
+  
 🧾 User Inputs:
-Job Title
-Job Description
-Company Name
-Location
-Salary
+<ol>
+<li>Job Title</li>
+<li>Job Description</li>
+<li>Company Name</li>
+<li>Location</li>
+<li>Salary</li>
+</ol>
 👤 User Data:
-Recruiter/Employer details
-Job seeker information
+<ol>
+<li>Recruiter/Employer details</li>
+<li>Job seeker information</li>
+</ol>
 🗄️ Data Storage:
-Data is stored in a relational database (MySQL/H2)
-Managed using Spring Data JPA
+<ol>
+<li>Data is stored in a relational database (Postgresql)</li>
+<li>Managed using Spring Data JPA</li>
+</ol>
 🔍 Processing:
-Input data is validated using Spring Validation (@Valid)
-Ensures data consistency before storing in the database
+<ol>
+<li>Input data is validated using Spring Validation (@Valid)</li>
+<li>Ensures data consistency before storing in the database</li>
+</ol>
 </p>
 
 <hr>

@@ -34,18 +34,17 @@ The application follows a layered architecture (Controller → Service → Repos
 With built-in validation mechanisms, the system ensures data integrity and reliability. This project showcases real-world backend development practices, making it scalable, structured, and production-ready.
 </p>
 <h2 id="dataset-inputs">📊 Dataset & Inputs</h2>
-<p>
-The application does not use a predefined dataset. Instead, it works with dynamic data provided by users and stored in the database.
 
+<p>The application does not use a predefined dataset. Instead, it works with dynamic data provided by users and stored in the database.
 🧾 User Inputs:
 Job Title
 Job Description
 Company Name
 Location
-Salary (optional)
+Salary
 👤 User Data:
 Recruiter/Employer details
-Job seeker information (if implemented)
+Job seeker information
 🗄️ Data Storage:
 Data is stored in a relational database (MySQL/H2)
 Managed using Spring Data JPA
@@ -53,6 +52,9 @@ Managed using Spring Data JPA
 Input data is validated using Spring Validation (@Valid)
 Ensures data consistency before storing in the database
 </p>
+
+<hr>
+
 <h2 id="tools-technologies">🛠 Tools & Technologies</h2>
 <ul>
 <li><strong>Backend:</strong> Java, Spring Boot</li>
@@ -128,7 +130,7 @@ Improves debugging and monitoring</p>
 <li>🔸 Microservices Architecture</li>
 </ul>
 
-<h2 id="api-endpoints">📡 API Endpoints (Sample)</h2>
+<h2 id="api-endpoints">📡 API Endpoints </h2>
 
 <table>
   <thead>

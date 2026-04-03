@@ -15,7 +15,7 @@ This project demonstrates real-world backend development practices including cle
   <li><a href="#project-structure">Project Structure</a></li>
   <li><a href="#core-features">Core Features</a></li>
   <li><a href="#spring-AOP">Spring AOP</a></li>
-  <li><a href="#security">🔐 Security Features</a></li>
+  <li><a href="#security">Security Features</a></li>
   <li><a href="#logic-workflow">Logic & Workflow</a></li>
   <li><a href="#strengths-limitations">Strengths & Limitations</a></li>
   <li><a href="#recommendations-future-work">Recommendations & Future Work</a></li>

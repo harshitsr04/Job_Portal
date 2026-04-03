@@ -156,8 +156,10 @@ These features demonstrate an understanding of backend security principles and c
   <li><strong>Strengths:</strong> Clean and scalable backend architecture.</li>
   <li><strong>Strengths:</strong> Efficient logging using Spring AOP.</li>
   <li><strong>Strengths:</strong> Ensures data integrity with validation.</li>
+  <li><strong>Strengths:</strong> Implements basic backend security practices (Session + CSRF).</li>
   <li><strong>Limitations:</strong> No authentication/authorization (basic version).</li>
   <li><strong>Limitations:</strong> Not optimized for large-scale production yet.</li>
+  
 </ul>
 
 <h2 id="recommendations-future-work">🚀 Recommendations & Future Work</h2>

@@ -145,6 +145,9 @@ These features demonstrate an understanding of backend security principles and c
   <li>Processed data is returned back to the Controller.</li>
   <li>Final response is sent to the client in JSON format.</li>
   <li>Global Exception Handling manages errors and returns meaningful responses.</li>
+  <li>Session ID is generated and maintained for each user interaction.</li>
+  <li>Incoming requests are validated against session tokens.</li>
+  <li>CSRF tokens are verified to prevent unauthorized external requests.</li>
 </ol>
 
 

@@ -164,11 +164,13 @@ These features demonstrate an understanding of backend security principles and c
 
 <h2 id="recommendations-future-work">🚀 Recommendations & Future Work</h2>
 <ul>
-<li>🔸 Authentication & Authorization (Spring Security + JWT)</li>
 <li>🔸 Resume Upload Feature</li>
 <li>🔸 Admin Dashboard</li>
 <li>🔸 Pagination & Filtering</li>
 <li>🔸 Microservices Architecture</li>
+<li>🔸 Full Authentication & Authorization (Spring Security + JWT)</li>
+<li>🔸 Role-Based Access Control (RBAC)</li>
+<li>🔸 OAuth2 / Social Login Integration</li>
 </ul>
 
 <h2 id="api-endpoints">📡 API Endpoints </h2>
